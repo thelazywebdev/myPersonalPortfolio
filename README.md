@@ -1,3 +1,3 @@
 # myPersonalPortfolio
 This is my portfolio website, i decided to open-source it!
-![Rust](https://shields.io)
+The site is still in early development, so expect some typos and other mistakes!
